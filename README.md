@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" alt="Header Image"/> </p> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+Cybersecurity+Specialist" alt="Typing SVG" /> </a> </div> <img width="28%" align="right" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" alt="Profile Image"/> <h2 align="left"> Hey there, I'm DemonRevoked <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hi"/> </h2>
+<p align="center"> <img src="" width="100%" alt="Header Image"/> </p> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+Cybersecurity+Specialist" alt="Typing SVG" /> </a> </div> <img width="28%" align="right" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" alt="Profile Image"/> <h2 align="left"> Hey there, I'm DemonRevoked <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hi"/> </h2>
 I'm DemonRevoked (a.k.a Divyansh Singh Rathore) – a Cybersecurity Engineer with 4+ years of hands-on experience in red team testing, black-box assessments, and building realistic cyber ranges. I blend my hacker mindset with a passion for teaching and community building. Whether I’m designing CTF challenges or deploying scalable cloud solutions, I'm all about making our digital world a bit more secure while having fun along the way.
 
 <details> <summary>More about me</summary>
@@ -42,9 +42,7 @@ BT Institute of Research and Technologies, Sagar (M.P) | 2018 - 2022
 Certifications:
 
 SC-200: Microsoft SOC Analyst (among other cybersecurity training and hands-on courses)
-<h2 id="support">Support ⚡️</h2> <details> <summary>Buy Me A Coffee</summary> <p align="center"> <img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" alt="Buy Me A Coffee"/> </p> <p align="center"> <a href="https://buymeacoffee.com/DemonRevoked"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/> </a> </p> </details> <p align="center"> <b><i>"Never give up. Never back down."</i></b> </p> <p align="center"> 🌱 </p>
+</p> </details> <p align="center"> <b><i>"Never give up. Never back down."</i></b> </p> <p align="center"> 🌱 </p>
 Contact:
 
-Email: divyanshrathore1512@gmail.com
-GitHub: DemonRevoked
-LinkedIn: Divyansh Singh Rathore
+Email: demonisrevoked1512@gmail.com
