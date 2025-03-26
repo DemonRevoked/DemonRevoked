@@ -21,7 +21,9 @@ Reach out at divyanshrathore1512@gmail.com
 <h2 id="stats">GitHub Stats 👨‍💻</h2> <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png" alt="Stats"/>
 
 <p align="left"> <a href="https://github.com/DemonRevoked/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonRevoked&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages" /> </a> </p>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wanglong&show_icons=true&theme=dark)
+
+<div>(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</div>
+
 <h2 id="projects">Cool Projects & Experience</h2>
 Cyber Range & Red Teaming:
 
