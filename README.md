@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://github.com/DemonRevoked/DemonRevoked/blob/main/icegif-506.gif" width="50%" height="50%" alt="Header Image"/> </p> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=550&lines=Everything+that+kills+me+makes+me+feel+alive!" alt="Typing SVG" /> </a> </div> <img width="28%" align="right" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" alt="Profile Image"/> <h2 align="left"> Hey there, I'm DemonRevoked <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hi"/> </h2>
+<p align="center"> <img src="https://github.com/DemonRevoked/DemonRevoked/blob/main/icegif-506.gif" width="50%" height="50%" alt="Header Image"/> </p> 
+
+<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=550&lines=Everything+that+kills+me+makes+me+feel+alive!" alt="Typing SVG" /> </a> </div> <img width="28%" align="right" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" alt="Profile Image"/> <h2 align="left"> Hey there, I'm DemonRevoked  </h2>
 I'm DemonRevoked (a.k.a Divyansh Singh Rathore) – a Cybersecurity Engineer with 4+ years of hands-on experience in red team testing, black-box assessments, and building realistic cyber ranges. I blend my hacker mindset with a passion for teaching and community building. Whether I’m designing CTF challenges or deploying scalable cloud solutions, I'm all about making our digital world a bit more secure while having fun along the way.
 
 <details> <summary>More about me</summary>
@@ -24,6 +26,7 @@ Reach out at divyanshrathore1512@gmail.com
 </p>
 
 <p align="left"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Hi"/>
   <a href="https://github.com/DemonRevoked/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonRevoked&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages" /> 
   </a> 
