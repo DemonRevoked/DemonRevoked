@@ -18,11 +18,16 @@ Reach out at divyanshrathore1512@gmail.com
 💡 Developing AI-based training platforms for anti-espionage and advanced defense techniques
 🛠 Always coding, testing, and experimenting with new tech and security paradigms
 <h2 id="knowledge_skills">My Toolbox</h2> <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;"> <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" /> <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" /> <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" /> <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" /> </div> </div>
-<h2 id="stats">GitHub Stats 👨‍💻</h2> <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png" alt="Stats"/>
+<h2 id="stats">GitHub Stats 👨‍💻</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DemonRevoked&show_icons=true&theme=dark" alt="Github Stats"/>
+</p>
 
-<p align="left"> <a href="https://github.com/DemonRevoked/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonRevoked&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages" /> </a> </p>
-
-<div>(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</div>
+<p align="left"> 
+  <a href="https://github.com/DemonRevoked/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonRevoked&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages" /> 
+  </a> 
+</p>
 
 <h2 id="projects">Cool Projects & Experience</h2>
 Cyber Range & Red Teaming:
